@@ -27,19 +27,22 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
     
-    height: 627px;
-    width: 311px;
-    background-image: url(../imagens/frame-iphone.png);
+    height: 540px;
+    width: 260px;
+    background-image: url(../imagens/celular-menu.png);
     background-repeat: no-repeat;
     /* background: blue url(../imagens/frame-iphone.png) no-repeat ; */
+   
+    /* background-image: url(../imagens/frame-iphone.png); */
+   
     
 }
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
-    width: 267px;
-    height: 470px;
+    top: 20px;
+    left: 16px;
+    width: 225px;
+    height: 480px;
 }
 section#redes-sociais {
    position: absolute;
